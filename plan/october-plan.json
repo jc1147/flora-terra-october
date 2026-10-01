@@ -1,0 +1,846 @@
+{
+ "emails": [
+  {
+   "date": "2026-10-01",
+   "weekday": "Thu",
+   "kind": "Launch",
+   "what": "October kickoff in the Harvest Table look: today's Thirsty Thursday, Oct 1-4, and the month's Dime Days",
+   "deals": [
+    "Thirsty Thursday- 40% off select beverages"
+   ],
+   "rows": [
+    12
+   ],
+   "email": "final-launch-oct01"
+  },
+  {
+   "date": "2026-10-03",
+   "weekday": "Sat",
+   "kind": "Daily",
+   "what": "Saturday: Ready To Rip + Lost Farm",
+   "deals": [
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off"
+   ],
+   "rows": [
+    16,
+    15
+   ],
+   "email": "final-day-saturday"
+  },
+  {
+   "date": "2026-10-05",
+   "weekday": "Mon",
+   "kind": "Week overview",
+   "what": "The week of Oct 5-11, leading with Monday; promotes Dime Day Sat Oct 10",
+   "deals": [
+    "Munchie Monday- 40% off select edibles",
+    "Maven Monday- 40% Off",
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off",
+    "Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+    "Thirsty Thursday- 40% off select beverages",
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off",
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off",
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Self Care Sunday- 40% off select wellness & sleep products"
+   ],
+   "rows": [
+    8,
+    7,
+    10,
+    9,
+    11,
+    12,
+    14,
+    13,
+    16,
+    15,
+    28,
+    6
+   ],
+   "email": "final-week-oct05"
+  },
+  {
+   "date": "2026-10-07",
+   "weekday": "Wed",
+   "kind": "Daily",
+   "what": "Wednesday: Roll-Up Wednesday",
+   "deals": [
+    "Roll-Up Wednesday- 40% off select prerolls & preroll packs"
+   ],
+   "rows": [
+    11
+   ],
+   "email": "final-day-wednesday"
+  },
+  {
+   "date": "2026-10-09",
+   "weekday": "Fri",
+   "kind": "Daily",
+   "what": "Friday: Flower Friday + Camino Friday",
+   "deals": [
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off"
+   ],
+   "rows": [
+    14,
+    13
+   ],
+   "email": "final-day-friday"
+  },
+  {
+   "date": "2026-10-10",
+   "weekday": "Sat",
+   "kind": "Event",
+   "what": "Dime Day #1 (plus Saturday's deals)",
+   "deals": [
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off"
+   ],
+   "rows": [
+    28,
+    16,
+    15
+   ],
+   "email": "final-dime-spot (the option the client picks)"
+  },
+  {
+   "date": "2026-10-12",
+   "weekday": "Mon",
+   "kind": "Week overview",
+   "what": "The week of Oct 12-18, leading with Monday",
+   "deals": [
+    "Munchie Monday- 40% off select edibles",
+    "Maven Monday- 40% Off",
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off",
+    "Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+    "Thirsty Thursday- 40% off select beverages",
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off",
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off",
+    "Self Care Sunday- 40% off select wellness & sleep products"
+   ],
+   "rows": [
+    8,
+    7,
+    10,
+    9,
+    11,
+    12,
+    14,
+    13,
+    16,
+    15,
+    6
+   ],
+   "email": "final-week-oct12"
+  },
+  {
+   "date": "2026-10-13",
+   "weekday": "Tue",
+   "kind": "Daily",
+   "what": "Tuesday: Terpy Tuesday + West Coast Treez Tuesday",
+   "deals": [
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off"
+   ],
+   "rows": [
+    10,
+    9
+   ],
+   "email": "final-day-tuesday"
+  },
+  {
+   "date": "2026-10-15",
+   "weekday": "Thu",
+   "kind": "Daily",
+   "what": "Thursday: Thirsty Thursday",
+   "deals": [
+    "Thirsty Thursday- 40% off select beverages"
+   ],
+   "rows": [
+    12
+   ],
+   "email": "final-day-thursday"
+  },
+  {
+   "date": "2026-10-18",
+   "weekday": "Sun",
+   "kind": "Daily",
+   "what": "Sunday: Self Care Sunday",
+   "deals": [
+    "Self Care Sunday- 40% off select wellness & sleep products"
+   ],
+   "rows": [
+    6
+   ],
+   "email": "final-day-sunday"
+  },
+  {
+   "date": "2026-10-19",
+   "weekday": "Mon",
+   "kind": "Week overview",
+   "what": "The week of Oct 19-25, leading with Monday; promotes Dime Day Tue Oct 20",
+   "deals": [
+    "Munchie Monday- 40% off select edibles",
+    "Maven Monday- 40% Off",
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off",
+    "Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+    "Thirsty Thursday- 40% off select beverages",
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off",
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off",
+    "Self Care Sunday- 40% off select wellness & sleep products"
+   ],
+   "rows": [
+    8,
+    7,
+    28,
+    10,
+    9,
+    11,
+    12,
+    14,
+    13,
+    16,
+    15,
+    6
+   ],
+   "email": "final-week-oct19"
+  },
+  {
+   "date": "2026-10-20",
+   "weekday": "Tue",
+   "kind": "Event",
+   "what": "Dime Day #2 (plus Tuesday's deals)",
+   "deals": [
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off"
+   ],
+   "rows": [
+    28,
+    10,
+    9
+   ],
+   "email": "final-dime-spot (the option the client picks)"
+  },
+  {
+   "date": "2026-10-22",
+   "weekday": "Thu",
+   "kind": "Every Day",
+   "what": "Every Day In October: Flora Terra flower + every vendor deal",
+   "deals": [
+    "Flora Terra 14g Mix & Match - Save $10 when you buy 2 Flora Terra 14g",
+    "Flora Terra 7g Mix & Match - Buy 2 Flora Terra 7g for the price of the 14g",
+    "Flora Terra 3.5g - Buy 3 Flora Terra 3.5g for $50",
+    "30% off",
+    "30% off",
+    "30% off",
+    "Buy 2, Get 1",
+    "10% off",
+    "Buy 2, Get 1",
+    "Buy 2, Get 1",
+    "Buy 2, Get 1"
+   ],
+   "rows": [
+    25,
+    26,
+    27,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "email": "final-everyday"
+  },
+  {
+   "date": "2026-10-24",
+   "weekday": "Sat",
+   "kind": "Daily",
+   "what": "Saturday: Ready To Rip + Lost Farm (second send)",
+   "deals": [
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off"
+   ],
+   "rows": [
+    16,
+    15
+   ],
+   "email": "final-day-saturday"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "Mon",
+   "kind": "Week overview",
+   "what": "Oct 26-31 (no Sunday left in October), leading with Monday; promotes Dime Day Fri Oct 30 (+ the Halloween Sale once sheet row 29 arrives)",
+   "deals": [
+    "Munchie Monday- 40% off select edibles",
+    "Maven Monday- 40% Off",
+    "Terpy Tuesday- 40% off select concentrates",
+    "West Coast Treez Tuesday- 40% Off",
+    "Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+    "Thirsty Thursday- 40% off select beverages",
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off",
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+    "Lost Farm Saturday- 40% off"
+   ],
+   "rows": [
+    8,
+    7,
+    10,
+    9,
+    11,
+    12,
+    14,
+    13,
+    28,
+    16,
+    15
+   ],
+   "email": "final-week-oct26"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "Fri",
+   "kind": "Event",
+   "what": "Dime Day #3 (plus Friday's deals; + Halloween once confirmed)",
+   "deals": [
+    "Dime Day- Buy 1, Get 1 50% Off",
+    "Flower Friday- 40% off select flower",
+    "Camino Friday- 40% off"
+   ],
+   "rows": [
+    28,
+    14,
+    13
+   ],
+   "email": "final-dime-spot (the option the client picks)"
+  }
+ ],
+ "texts": [
+  {
+   "date": "2026-10-01",
+   "weekday": "Thu",
+   "text": "Flora Terra: October deals are here. Today: Thirsty Thursday- 40% off select beverages. Dime Day is October 10th, 20th & 30th. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 176,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "note": "Launch (with the launch email)"
+  },
+  {
+   "date": "2026-10-05",
+   "weekday": "Mon",
+   "text": "Flora Terra: This week's deals are live. Today: Munchie Monday- 40% off select edibles. Saturday: Dime Day- Buy 1, Get 1 50% Off. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 179,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-10",
+   "weekday": "Sat",
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 114,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "note": "Event day (Dime Day)"
+  },
+  {
+   "date": "2026-10-12",
+   "weekday": "Mon",
+   "text": "Flora Terra: This week's deals are live. Today: Munchie Monday- 40% off select edibles. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 137,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-19",
+   "weekday": "Mon",
+   "text": "Flora Terra: This week's deals are live. Today: Munchie Monday- 40% off select edibles. Tuesday: Dime Day- Buy 1, Get 1 50% Off. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 178,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-20",
+   "weekday": "Tue",
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 114,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "note": "Event day (Dime Day)"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "Mon",
+   "text": "Flora Terra: This week's deals are live. Today: Munchie Monday- 40% off select edibles. Friday: Dime Day- Buy 1, Get 1 50% Off. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 177,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "Fri",
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 114,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "note": "Event day (Dime Day)"
+  }
+ ],
+ "texts_daily_rejected": [
+  {
+   "date": "2026-10-01",
+   "weekday": "Thu",
+   "rows": [
+    12
+   ],
+   "text": "Flora Terra: Thirsty Thursday- 40% off select beverages. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 127,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Thirsty Thursday- 40% off select beverages",
+   "note": ""
+  },
+  {
+   "date": "2026-10-02",
+   "weekday": "Fri",
+   "rows": [
+    14,
+    13
+   ],
+   "text": "Flora Terra: Flower Friday- 40% off select flower + Camino Friday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 146,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Flower Friday- 40% off select flower",
+   "note": ""
+  },
+  {
+   "date": "2026-10-03",
+   "weekday": "Sat",
+   "rows": [
+    16,
+    15
+   ],
+   "text": "Flora Terra: Ready To Rip Saturday- 40% off select vape cartridges & all in ones + Lost Farm Saturday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 182,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+   "note": ""
+  },
+  {
+   "date": "2026-10-04",
+   "weekday": "Sun",
+   "rows": [
+    6
+   ],
+   "text": "Flora Terra: Self Care Sunday- 40% off select wellness & sleep products. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Self Care Sunday- 40% off select wellness & sleep products",
+   "note": ""
+  },
+  {
+   "date": "2026-10-05",
+   "weekday": "Mon",
+   "rows": [
+    8,
+    7
+   ],
+   "text": "Flora Terra: Munchie Monday- 40% off select edibles + Maven Monday- 40% Off. Today at All Stores. This week's deals: floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 166,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Munchie Monday- 40% off select edibles",
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-06",
+   "weekday": "Tue",
+   "rows": [
+    10,
+    9
+   ],
+   "text": "Flora Terra: Terpy Tuesday- 40% off select concentrates + West Coast Treez Tuesday- 40% Off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 163,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Terpy Tuesday- 40% off select concentrates",
+   "note": ""
+  },
+  {
+   "date": "2026-10-07",
+   "weekday": "Wed",
+   "rows": [
+    11
+   ],
+   "text": "Flora Terra: Roll-Up Wednesday- 40% off select prerolls & preroll packs. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+   "note": ""
+  },
+  {
+   "date": "2026-10-08",
+   "weekday": "Thu",
+   "rows": [
+    12
+   ],
+   "text": "Flora Terra: Thirsty Thursday- 40% off select beverages. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 127,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Thirsty Thursday- 40% off select beverages",
+   "note": ""
+  },
+  {
+   "date": "2026-10-09",
+   "weekday": "Fri",
+   "rows": [
+    14,
+    13
+   ],
+   "text": "Flora Terra: Flower Friday- 40% off select flower + Camino Friday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 146,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Flower Friday- 40% off select flower",
+   "note": ""
+  },
+  {
+   "date": "2026-10-10",
+   "weekday": "Sat",
+   "rows": [
+    28,
+    16,
+    15
+   ],
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off + Ready To Rip Saturday- 40% off select vape cartridges & all in ones + Lost Farm Saturday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 215,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Dime Day- Buy 1, Get 1 50% Off",
+   "note": "Dime Day"
+  },
+  {
+   "date": "2026-10-11",
+   "weekday": "Sun",
+   "rows": [
+    6
+   ],
+   "text": "Flora Terra: Self Care Sunday- 40% off select wellness & sleep products. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Self Care Sunday- 40% off select wellness & sleep products",
+   "note": ""
+  },
+  {
+   "date": "2026-10-12",
+   "weekday": "Mon",
+   "rows": [
+    8,
+    7
+   ],
+   "text": "Flora Terra: Munchie Monday- 40% off select edibles + Maven Monday- 40% Off. Today at All Stores. This week's deals: floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 166,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Munchie Monday- 40% off select edibles",
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-13",
+   "weekday": "Tue",
+   "rows": [
+    10,
+    9
+   ],
+   "text": "Flora Terra: Terpy Tuesday- 40% off select concentrates + West Coast Treez Tuesday- 40% Off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 163,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Terpy Tuesday- 40% off select concentrates",
+   "note": ""
+  },
+  {
+   "date": "2026-10-14",
+   "weekday": "Wed",
+   "rows": [
+    11
+   ],
+   "text": "Flora Terra: Roll-Up Wednesday- 40% off select prerolls & preroll packs. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+   "note": ""
+  },
+  {
+   "date": "2026-10-15",
+   "weekday": "Thu",
+   "rows": [
+    12
+   ],
+   "text": "Flora Terra: Thirsty Thursday- 40% off select beverages. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 127,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Thirsty Thursday- 40% off select beverages",
+   "note": ""
+  },
+  {
+   "date": "2026-10-16",
+   "weekday": "Fri",
+   "rows": [
+    14,
+    13
+   ],
+   "text": "Flora Terra: Flower Friday- 40% off select flower + Camino Friday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 146,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Flower Friday- 40% off select flower",
+   "note": ""
+  },
+  {
+   "date": "2026-10-17",
+   "weekday": "Sat",
+   "rows": [
+    16,
+    15
+   ],
+   "text": "Flora Terra: Ready To Rip Saturday- 40% off select vape cartridges & all in ones + Lost Farm Saturday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 182,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+   "note": ""
+  },
+  {
+   "date": "2026-10-18",
+   "weekday": "Sun",
+   "rows": [
+    6
+   ],
+   "text": "Flora Terra: Self Care Sunday- 40% off select wellness & sleep products. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Self Care Sunday- 40% off select wellness & sleep products",
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "weekday": "Mon",
+   "rows": [
+    8,
+    7
+   ],
+   "text": "Flora Terra: Munchie Monday- 40% off select edibles + Maven Monday- 40% Off. Today at All Stores. This week's deals: floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 166,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Munchie Monday- 40% off select edibles",
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-20",
+   "weekday": "Tue",
+   "rows": [
+    28,
+    10,
+    9
+   ],
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off + Terpy Tuesday- 40% off select concentrates + West Coast Treez Tuesday- 40% Off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 196,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Dime Day- Buy 1, Get 1 50% Off",
+   "note": "Dime Day"
+  },
+  {
+   "date": "2026-10-21",
+   "weekday": "Wed",
+   "rows": [
+    11
+   ],
+   "text": "Flora Terra: Roll-Up Wednesday- 40% off select prerolls & preroll packs. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+   "note": ""
+  },
+  {
+   "date": "2026-10-22",
+   "weekday": "Thu",
+   "rows": [
+    12
+   ],
+   "text": "Flora Terra: Thirsty Thursday- 40% off select beverages. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 127,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Thirsty Thursday- 40% off select beverages",
+   "note": ""
+  },
+  {
+   "date": "2026-10-23",
+   "weekday": "Fri",
+   "rows": [
+    14,
+    13
+   ],
+   "text": "Flora Terra: Flower Friday- 40% off select flower + Camino Friday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 146,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Flower Friday- 40% off select flower",
+   "note": ""
+  },
+  {
+   "date": "2026-10-24",
+   "weekday": "Sat",
+   "rows": [
+    16,
+    15
+   ],
+   "text": "Flora Terra: Ready To Rip Saturday- 40% off select vape cartridges & all in ones + Lost Farm Saturday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 182,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+   "note": ""
+  },
+  {
+   "date": "2026-10-25",
+   "weekday": "Sun",
+   "rows": [
+    6
+   ],
+   "text": "Flora Terra: Self Care Sunday- 40% off select wellness & sleep products. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Self Care Sunday- 40% off select wellness & sleep products",
+   "note": ""
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "Mon",
+   "rows": [
+    8,
+    7
+   ],
+   "text": "Flora Terra: Munchie Monday- 40% off select edibles + Maven Monday- 40% Off. Today at All Stores. This week's deals: floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 166,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Munchie Monday- 40% off select edibles",
+   "note": "Monday: points to the week overview email"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "Tue",
+   "rows": [
+    10,
+    9
+   ],
+   "text": "Flora Terra: Terpy Tuesday- 40% off select concentrates + West Coast Treez Tuesday- 40% Off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 163,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Terpy Tuesday- 40% off select concentrates",
+   "note": ""
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "Wed",
+   "rows": [
+    11
+   ],
+   "text": "Flora Terra: Roll-Up Wednesday- 40% off select prerolls & preroll packs. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 143,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Roll-Up Wednesday- 40% off select prerolls & preroll packs",
+   "note": ""
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "Thu",
+   "rows": [
+    12
+   ],
+   "text": "Flora Terra: Thirsty Thursday- 40% off select beverages. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 127,
+   "encoding": "GSM-7",
+   "sms_segments": 1,
+   "mms_image": "Text x Email graphic of: Thirsty Thursday- 40% off select beverages",
+   "note": ""
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "Fri",
+   "rows": [
+    28,
+    14,
+    13
+   ],
+   "text": "Flora Terra: Dime Day- Buy 1, Get 1 50% Off + Flower Friday- 40% off select flower + Camino Friday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 179,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Dime Day- Buy 1, Get 1 50% Off",
+   "note": "Dime Day"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "Sat",
+   "rows": [
+    16,
+    15
+   ],
+   "text": "Flora Terra: Ready To Rip Saturday- 40% off select vape cartridges & all in ones + Lost Farm Saturday- 40% off. Today at All Stores. floraterraca.com/promotions Reply STOP to opt out",
+   "chars": 182,
+   "encoding": "GSM-7",
+   "sms_segments": 2,
+   "mms_image": "Text x Email graphic of: Ready To Rip Saturday- 40% off select vape cartridges & all in ones",
+   "note": ""
+  }
+ ],
+ "link": "floraterraca.com/promotions",
+ "opt_out": "Reply STOP to opt out",
+ "rules": [
+  "Deal wording in every email and text is the sheet cell, word for word.",
+  "Mondays: a week-overview email (the whole week, events called out) + a text.",
+  "Emails on the themed days in the table (cadence approved by the client on Sep 30).",
+  "Event deals (Dime Days, Halloween when confirmed) lead the overview of their week and get their own email + text on the day.",
+  "Texts: 8 in October (launch, each Monday, each Dime Day), not daily: the client found a text a day too aggressive.",
+  "Texts go out as MMS with the deal's 1024 'Text x Email' graphic from the sheet's formats."
+ ]
+}
